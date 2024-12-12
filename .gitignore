@@ -5,3 +5,4 @@
 /tests/.phpunit.result.cache
 /vendor/
 .gitignore
+/tests/.phpunit.result.cache
